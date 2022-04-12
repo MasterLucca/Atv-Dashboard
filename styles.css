@@ -1,0 +1,26 @@
+h1{
+
+    display: flex;
+    justify-content: center;
+    color: rgb(68, 26, 106);
+    font-weight: bold;
+
+}
+
+
+.myCharts{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    justify-content: center;
+}
+
+.cont1{
+    height: 40vh;
+    width: 40vw;
+}
+
+.cont2{
+    height: 40vh;
+    width: 40vw;
+}
